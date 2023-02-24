@@ -1,7 +1,7 @@
 body{
     background-color: rgb(97, 124, 223);
 }
-h1{
+#winner{
     display: flex;
     justify-content: center;
     color: white;
