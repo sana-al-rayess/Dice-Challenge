@@ -1,3 +1,16 @@
 body{
     background-color: rgb(97, 124, 223);
 }
+
+#dice {
+	display: flex;
+	justify-content: center;
+	margin-top: 25%;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+}
+
