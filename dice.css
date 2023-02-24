@@ -5,7 +5,7 @@ body{
 #dice {
 	display: flex;
 	justify-content: center;
-	margin-top: 25%;
+	margin-top: 20%;
 }
 
 .hidden {
@@ -17,3 +17,14 @@ img {
 	margin: 20px;
 }
 
+button {
+	display: block;
+	margin: 50px auto;
+	padding: 10px 20px;
+	font-size: 25px;
+	border-radius: 10px;
+	background-color: #534caf;
+	color: white;
+	border: 5px solid black;
+	cursor: pointer;
+}
